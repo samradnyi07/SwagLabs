@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-29T23:57:59 IST" name="Default suite" finished-at="2025-11-29T23:58:10 IST" duration-ms="10444">
+    <groups>
+    </groups>
+    <test started-at="2025-11-29T23:57:59 IST" name="Default test" finished-at="2025-11-29T23:58:10 IST" duration-ms="10444">
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="initTest()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:57:59 IST" name="initTest" finished-at="2025-11-29T23:58:02 IST" duration-ms="2639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:02 IST" name="invalidLoginTest" finished-at="2025-11-29T23:58:02 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:02 IST" name="tearDown" finished-at="2025-11-29T23:58:03 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initTest()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:03 IST" name="initTest" finished-at="2025-11-29T23:58:04 IST" duration-ms="1933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="validLoginTest()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:04 IST" name="validLoginTest" finished-at="2025-11-29T23:58:05 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:05 IST" name="tearDown" finished-at="2025-11-29T23:58:05 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initTest()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:05 IST" name="initTest" finished-at="2025-11-29T23:58:07 IST" duration-ms="1932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="validatePasswordEditable()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:07 IST" name="validatePasswordEditable" finished-at="2025-11-29T23:58:07 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordEditable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:07 IST" name="tearDown" finished-at="2025-11-29T23:58:07 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initTest()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:07 IST" name="initTest" finished-at="2025-11-29T23:58:09 IST" duration-ms="1933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="validateUsernameEditable()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:09 IST" name="validateUsernameEditable" finished-at="2025-11-29T23:58:09 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUsernameEditable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@7205765b]" started-at="2025-11-29T23:58:09 IST" name="tearDown" finished-at="2025-11-29T23:58:10 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
